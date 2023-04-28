@@ -1,5 +1,13 @@
-# script-visa-superville
-Script para desglosar el resumen de la tarjeta de crédito Visa (comprobado que funciona con la tarjeta del banco Superville)
+# Script para extracción de datos de resúmen de Visa Superville
+##Aplicación para desglosar el resumen de la tarjeta de crédito Visa Superville.
+### Contenido
+- [Descripción](#descripcion)
+- [Instalación](#instalacion)
+- [Uso](#uso)
+- [Licencia](#licencia)
+
+### Descripción <a name="descripcion"></a>
+#### Thanks to the dataset from [Statsbomb](htt
 
 Con dicho script se puede:
 * Agrupar nombre de pagos para que sumen el total (solo 1 pago).
